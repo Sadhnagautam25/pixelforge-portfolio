@@ -57,7 +57,7 @@ const SectionTwo = ({ isdark }) => {
           "-=0.3"
         )
         .from(
-          ".FAQ ",
+          ".faq ",
           {
             x: -40,
             opacity: 0,

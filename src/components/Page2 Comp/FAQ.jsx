@@ -28,7 +28,7 @@ const FAQ = () => {
         
         key={index}
         onClick={() => toggleFAQ(index)}
-        className="FAQ w-full sm:w-[90%]
+        className="faq w-full sm:w-[90%]
         p-4 sm:p-5
         rounded-2xl bg-white
         cursor-pointer

@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilex:ital,wght@0,100..700;1,100..700&display=swap");
+
+@import "tailwindcss";
+
+#heading {
+  font-family: "Lilex", monospace;
+}
+#sec-heading {
+  font-family: "Lilex", monospace;
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}

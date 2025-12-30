@@ -1,5 +1,5 @@
-import { MapPlus, ScreenShare } from "lucide-react";
-import FAQ from "./FAQ.JSX";
+import { Import, MapPlus, ScreenShare } from "lucide-react";
+import FAQ from './FAQ.jsx'
 
 const LeftSection = ({ isdark }) => {
   return (

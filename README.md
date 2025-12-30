@@ -21,6 +21,10 @@ It focuses on clean UI, smooth animations, and performance-optimized design.
 
 ---
 
+## 🌐 Live Demo
+🔗 https://pixelforge-portfolio.vercel.app
+
+
 ## 📂 Installation & Setup
 ```bash
 git clone https://github.com/Sadhnagautam25/pixelforge-portfolio.git
